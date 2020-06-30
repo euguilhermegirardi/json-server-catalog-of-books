@@ -1,0 +1,19 @@
+{
+  "name": "json-server-catalog-of-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/euguilhermegirardi/json-server-catalog-of-books.git"
+  },
+  "author": "Guilherme Girardi",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "json-server": "^0.16.1"
+  }
+}
